@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureTechKnightWebApp", "AzureTechKnightWebApp\AzureTechKnightWebApp.csproj", "{4813C5C4-7A1C-42C2-A994-4F1CB9876095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4813C5C4-7A1C-42C2-A994-4F1CB9876095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4813C5C4-7A1C-42C2-A994-4F1CB9876095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4813C5C4-7A1C-42C2-A994-4F1CB9876095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4813C5C4-7A1C-42C2-A994-4F1CB9876095}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {713DE1F8-15D6-4955-81DA-810F4B0A3A65}
+	EndGlobalSection
+EndGlobal
